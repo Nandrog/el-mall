@@ -1,0 +1,11 @@
+.profile{
+  display:flex;
+  flex-direction: row;
+  column-gap: 10px;
+  background-color: rgb(85, 24, 228);
+  color:white;
+}
+.profile img{
+  height:200px;
+  
+}
